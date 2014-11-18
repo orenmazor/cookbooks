@@ -10,3 +10,10 @@
 - [ ] 1/2 cup flour
 - [ ] 1/2 tsp baking powder
 - [ ] oil
+
+#### Steps
+
+1. Grate the zucks. Mix with salt, then drain.
+2. Add egg, scalions, pepper.
+3. Separately: mix flour and baking powder, then add to zuck mix.
+4. Fry small droplets in as much oil as you like. More = Better.
