@@ -8,7 +8,7 @@
  - [ ] 1/4 teaspoon cayenne pepper
  - [ ] 1 Tablespoon lime juice
  - [ ] 1 cup frozen corn
- - [ ] 2 (15 ounce) cans of black beans, drained and rinsed
+ - [ ] 1 or 2 (15 ounce) cans of black beans, drained and rinsed
 
 # Steps
 
